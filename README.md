@@ -30,7 +30,7 @@ Not needed, project is public. :unlock:
 ## Features
 List of features ready an
 * Data presentation
-* Edata visualisation
+* Data visualisation
 * Plotting correlation
 
 ## Status
