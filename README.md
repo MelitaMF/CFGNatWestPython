@@ -1,7 +1,7 @@
 # CFGNatWestPython
 <br>
 * Category: Data Analytics
-* Aim: EAnalysing sales data
+* Aim: Analysing sales data
 * Produced as part of CFG NatWest python course
 <br> 
 
@@ -16,7 +16,7 @@
 
 ## General info
 * Python project using pandas and matplotlib 🐼
-* Rationale: DDiscovering if there is any correlation between sales and expenditure.
+* Rationale: Discovering if there is any correlation between sales and expenditure.
 
 ## Technologies
 * Python
@@ -29,10 +29,9 @@ Not needed, project is public. :unlock:
 
 ## Features
 List of features ready an
-* Entertainment Video 
-* Educational Materials 
-* Educational Games
-* And many more ...
+* Data presentation
+* Edata visualisation
+* Plotting correlation
 
 ## Status
 Project is: _done but could be developed further_ :bulb:
